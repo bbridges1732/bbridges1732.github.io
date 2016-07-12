@@ -1,0 +1,116 @@
+
+h1 {
+  font-style: oblique;
+  font-size: 200;
+  color:white;
+  text-align: center;
+  text-shadow: 2px 2px #black;
+  background-color: #2D3030;
+  opacity: 0.5;
+}
+
+h2 {
+  color:white;
+  text-align: center;
+  text-shadow: 2px 2px #black;
+  background-color: #2D3030;
+  opacity: 0.5;
+}
+
+h3 {
+  color:white;
+  text-align: center;
+  text-shadow: 2px 2px #black;
+  background-color: #2D3030;
+  opacity: 0.5;
+}
+
+h4 {
+  color:white;
+  text-align: center;
+}
+
+body{
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+
+ul li a.plus{
+  color:black;
+}
+
+ul li a.notplus{
+  color:black;
+
+}
+
+ul li a.poppy{
+  color:black;
+
+}
+
+
+html {
+  background-image: url(http://www.psdgraphics.com/file/cherry-wood.jpg);
+
+}
+.yas {
+  display: inline;
+  text-align: center;
+  list-style: none;
+  width: 100%;
+}
+.what {
+  display: inline;
+  text-align: center;
+  list-style: none;
+  width: 100%;
+}
+.whatu {
+  display: inline;
+  text-align: center;
+  list-style: none;
+  width: 100%;
+}
+
+ol li a.jk{
+  color:black;
+}
+
+ol li a.jkk{
+  color:black;
+}
+
+ul li{
+  color:black;
+}
+
+
+
+img {
+  border-image: url("http://etc.usf.edu/presentations/backgrounds/misc/misc_05/80502m.png");
+  border-style: ridge;
+  border-radius: 15px 50px 30px;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 1px;
+  display: block;
+  padding: 5px, 0px, 0px, 5px;
+  width: 100px;
+  height: 100px;
+  background-color: #black;
+  -webkit-transition: width 2s, height 2s, background-color 2s, -webkit-transform 2s;
+  transition: width 2s, height 2s, background-color 2s, transform 2s;
+}
+
+img:hover {
+  background-color: #black;
+  width: 200px;
+  height: 200px;
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
